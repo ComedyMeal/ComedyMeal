@@ -1,16 +1,18 @@
-## Hi there 👋
+![Banner presentación](BannerECastro.png)
 
-<!--
-**ComedyMeal/ComedyMeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ciencias De la Computación | Interés en el análisis de datos y el Machine Learning 
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/comedymeal)
 
-Here are some ideas to get you started:
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/comedymeal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Información sobre mí:
+
+- 🔭 Estoy implementando modelos matemáticos de **Machine Learning** en *phyton*
+- 🌱 Estoy aprendiendo nuevas técnicas de visualización y **Análisis de datos**.
+- 📫 Mi correo: casariasc@gmail.com
+
+<img align="right" src = https://tenor.com/es-AR/view/hotel-mario-all-toasters-toast-toast-gif-24380545>
+
+## Algunas herramientas que uso:
+
